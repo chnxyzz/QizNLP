@@ -24,7 +24,7 @@ setup(
                   },
     install_requires=[
         'jieba',
-        'tensorflow>=1.8, <=1.14'
+        'tensorflow-gpu>=1.8, <=1.14'
     ],
     python_requires='>=3.6',
     entry_points={
